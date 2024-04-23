@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Shiz <hi@shiz.me>"
+		]
+	},
+
+	"ext.redirectreduction.desc": "Minimize unnecessary redirects"
+}
